@@ -7,19 +7,19 @@
 
 ### Let's get into my journey!
 
-📍 **Location:** Lucknow, UP - Dehradun, UK  
-🏛️ **Education:**  University of Petroleum and Energy Studies  
+📍 **Location:** Mumbai, Maharashtra -  
+🏛️ **Education:**  University of Mumbai
 🚀 **Ambition:** Progressing every day towards becoming a tech innovator.
 
 
 ## 🚀 About Me
 
-Hi, I'm Yashasvi Gupta, a passionate Computer Science student with a strong enthusiasm for technology, software development, and problem-solving. I am dedicated to continuous learning and excited about contributing to impactful projects.
+Hi, I'm Purvesh Deora, a passionate Information Technology student with a strong enthusiasm for technology, software development, and problem-solving. I am dedicated to continuous learning and excited about contributing to impactful projects.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, Python, C, C++ with dsa in java
-- **Web Development:** HTML, CSS, JavaScript, AngularJS, Node.js
+- **Programming Languages:** Python
+- **Web Development:** HTML, CSS, JavaScript, ReactJs, Node.js
 - **Database Management:** SQL, MongoDB
 - **Tools & Software:** MS Office Suite, Canva, Figma (UI/UX)
 ---
