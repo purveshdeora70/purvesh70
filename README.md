@@ -18,18 +18,18 @@ Hi, I'm Purvesh Deora, a passionate Information Technology student with a strong
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python
 - **Web Development:** HTML, CSS, JavaScript, ReactJs, Node.js
 - **Database Management:** SQL, MongoDB
 - **Tools & Software:** MS Office Suite, Canva, Figma (UI/UX)
+- **Programming Languages:** Python
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Streak" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
-  <img alt="Top Languages" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r">
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true">
+  <img alt="GitHub Streak" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=purveshdeora70&theme=radical">
+  <img alt="Top Languages" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=purveshdeora70&theme=radical&layout=compact&exclude_lang=java+r">
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=purveshdeora70&count_private=true&theme=radical&show_icons=true">
 </p>
 
 ---
